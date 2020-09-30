@@ -80,7 +80,7 @@ $ uninstall-Noob-Termux
 ```
 ### Modifiy by
 
-Modified / Author: [AKSHAY]() / [DHAWAN](https://github.com/Sillytuktuk2020)
+Modified / Author: [AKSHAY]()  [DHAWAN](https://github.com/Sillytuktuk2020)
 
 ############💓,💓💓💓##########
 
