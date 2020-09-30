@@ -1,0 +1,95 @@
+<p align="center"><a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-for-android.svg"> </a>
+
+# <p align="center">Noob-Termux
+<p align="center">
+  <img src="https://github.com/sillytuktuk2020/Noob-Termux/blob/master/IMG_20200930_185845.jpg"> 1
+</p>
+<p align="center">Customize Your Termux
+<p align="center">
+<a href="https://github.com/Sillytuktuk2020"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
+
+
+<a href="https://github.com/Sillytuktuk2020"><img title="GitHub version" src="https://img.shields.io/github/license/Sillytuktuk2020/Noob-Termux?color=Brightgree" ></a>
+  <a href="https://instagram.com/bhavik_tutorials"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Decent_deep_raadhe"/></a>
+ <a href="https://github.com/Bhaviktutorials"><img title="Stars" src="https://img.shields.io/github/stars/Sillytuktuk2020/Noob-Termux?style=social" ></a>
+</p>
+
+###### <p align="center">*This is official repository Modified  by me*
+###### <p align="center"> *[@Sillytuktuk2020](https://www.instagram.com/decent_deep_raadhe/) ❤️*
+###### <p align="center"> *You can check [youtube](https://youtube.com/ coming soon)✌*
+---
+### What is Noob-Termux??
+Noob-Termux or Termux will Help to Customise Your Termux in such a way that you will Enjoy using Termux it will give you a morden look and we also have add a feature of password,so now you can also set Password on your Termux and protect it so no one can login in your termux in absence of you.
+one more feature that we have added is that you can change dollar sign and put anything you want in that place.
+Hope you guys like this Project,then dont forget to give it a like.
+
+* `Change Log` 
+```
+  • New Banner Fonts Added
+  • New Theme Feature Added
+  • Multiple Curser Choise 
+  • Lock Screen Bugs Fixed
+  • Access Granted Sound
+  • New Fonts In Termux Added
+  • Password Protection
+ ```
+ ### Installation Noob-Termux
+  
+* `Commands` for termux
+```
+$ termux-setup-storage
+  
+$ ` pkg update && pkg upgrade && pkg install git -y `
+
+$ ` git clone https://github.com/Sillytuktuk2020/Noob-Termux.git `
+
+$ ls
+
+$ ` cd Noob-Termux `
+
+$ ` ls `
+
+$ ` chmod +x * `
+
+$ ` bash Noob-Termux.sh `
+```
+#### THANKS FOR USE
+
+
+### Screenshots
+
+#### Before Installing Noob-Termux Termux Looks:-
+
+![Screenshot_20200808_161602](https://user-images.githubusercontent.com/64035221/89708658-86510580-d996-11ea-9739-aae202ce3ee2.jpg)
+
+#### After Installing _Noob-Termux_ Termux Looks Login Screen:-
+
+![Screenshot_20200914_154711](https://user-images.githubusercontent.com/64035221/93075754-e298fa80-f6a3-11ea-979d-97ff94c2ddf5.jpg)
+
+#### After Installing _Noob-Termux_ Termux Looks Home Page:-
+
+![Screenshot_20200901_150716](https://user-images.githubusercontent.com/64035221/93075823-fd6b6f00-f6a3-11ea-9609-cb84e25cefda.jpg)
+![Screenshot_20200901_151852](https://user-images.githubusercontent.com/64035221/93075830-fe9c9c00-f6a3-11ea-8b64-c46b0495e876.jpg)
+![Screenshot_20200901_152348](https://user-images.githubusercontent.com/64035221/93075834-ff353280-f6a3-11ea-925d-53b480d70ea2.jpg)
+![Screenshot_20200901_152938](https://user-images.githubusercontent.com/64035221/93075836-ffcdc900-f6a3-11ea-89d2-8f52df0362e2.jpg)
+![Screenshot_20200901_153649](https://user-images.githubusercontent.com/64035221/93075838-00665f80-f6a4-11ea-8a60-0722bc8f4c07.jpg)
+![Screenshot_20200914_154729](https://user-images.githubusercontent.com/64035221/93075840-00fef600-f6a4-11ea-9eed-545395273e77.jpg)
+
+***
+
+### To Remove Noob-Termux :- 
+
+* type below command from anywhere & choose the option you want to remove
+```
+$ uninstall-Noob-Termux
+```
+### Modifiy by
+
+Modified / Author: [AKSHAY]() / [DHAWAN](https://github.com/Sillytuktuk2020)
+
+####💓,💓💓💓######
+
+
+
+[![Github](https://github.frapsoft.com/social/github.png)](https://github.com/Sillytuktuk2020/)
+
