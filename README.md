@@ -38,19 +38,19 @@ Hope you guys like this Project,then dont forget to give it a like.
 ```
 $ termux-setup-storage
   
-$ ` pkg update && pkg upgrade && pkg install git -y `
+$ ## pkg update && pkg upgrade && pkg install git -y ##
 
-$ ` git clone https://github.com/Sillytuktuk2020/Noob-Termux.git `
+$ ## git clone https://github.com/Sillytuktuk2020/Noob-Termux.git ##
 
-$ ls
+$ ## ls #
 
-$ ` cd Noob-Termux `
+$ ## cd Noob-Termux ##
 
-$ ` ls `
+$ ## ls ##
 
-$ ` chmod +x * `
+$ ## chmod +x * ##
 
-$ ` bash Noob-Termux.sh `
+$ ## bash Noob-Termux.sh ##
 ```
 #### THANKS FOR USE
 
